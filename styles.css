@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+   background-color: black;
+}
+main{
+    margin:30px auto;
+    width:600px;
+    background-image: url(main.png);
+    background-repeat: repeat-y;
+    padding:20px 0 ;
+    
+
+}
+.innovite{
+    margin:0 auto 20px;
+    height: 90px;
+    width: 580px;
+    background-image: url(innovite.png);
+}
+.club{
+    margin:0 auto 20px;
+    height: 1000px;
+    width: 580px;
+    background-color: white;
+    padding-top: 10px;
+}
+.join{
+    margin: 10px auto 20px;
+    height: 160px;
+    width: 560px;
+    background-color: white;
+}
+.event{
+    margin:0 auto 20px;
+    height: 790px;
+    width: 560px;
+    background-color: white;
+}
+
+.abt{ height: 160px;
+    width: 560px;
+
+}
+.poster{
+    height: 790px;
+    width: 560px;
+}
+p{
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+

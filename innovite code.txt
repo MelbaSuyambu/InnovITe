@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>InnovITe</title>
+</head>
+<body>
+    <main>
+        <div>
+        <div class="innovite"></div>
+        <div class="club">
+            <div class="join">
+                <a href="https://forms.gle/YesCf7WymmAcQsCY7"><img class="abt" src="fabt.png"></a>
+            </div>
+            <div class="event">
+                <a href="fevent.jpg"><img class="poster" src="fevent.jpg"></a>
+            </div>
+        </div>
+        <div class="club">
+            <div class="join">
+                <a href="https://forms.gle/d3Bo2bRr1DApHi6a7"><img class="abt" src="cabt.png"></a>
+            </div>
+            <div class="event">
+                <a href="cevent.jpg"><img class="poster" src="cevent.jpg"></a>
+            </div>
+        </div>
+        <div class="club">
+            <div class="join">
+                <a href="https://forms.gle/ZQHeAzE3K5Ef5R7H6"><img class="abt" src="babt.png"></a>
+            </div>
+            <div class="event">
+                <a href="bevent.jpg"><img class="poster" src="bevent.jpg"></a>
+            </div>
+        </div>
+        <div class="club">
+            <div class="join">
+                <a href="https://forms.gle/wqNnQTVHNPFM7byG7"><img class="abt" src="pabt.png"></a>
+            </div>
+            <div class="event">
+                <a href="pevent.jpg"><img class="poster" src="pevent.jpg"></a>
+            </div>
+        </div>
+    </div>
+    </main>
+    <p>© Melba Suyambu</p>
+</body>
+</html>
+body{
+    margin: 0;
+   background-color: black;
+}
+main{
+    margin:30px auto;
+    width:600px;
+    background-image: url(main.png);
+    background-repeat: repeat-y;
+    padding:20px 0 ;
+    
+
+}
+.innovite{
+    margin:0 auto 20px;
+    height: 90px;
+    width: 580px;
+    background-image: url(innovite.png);
+}
+.club{
+    margin:0 auto 20px;
+    height: 1000px;
+    width: 580px;
+    background-color: white;
+    padding-top: 10px;
+}
+.join{
+    margin: 10px auto 20px;
+    height: 160px;
+    width: 560px;
+    background-color: white;
+}
+.event{
+    margin:0 auto 20px;
+    height: 790px;
+    width: 560px;
+    background-color: white;
+}
+
+.abt{ height: 160px;
+    width: 560px;
+
+}
+.poster{
+    height: 790px;
+    width: 560px;
+}
+p{
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+
