@@ -27,10 +27,10 @@ main{
 }*/
 .join{
     margin: 10px auto 20px;
-    height: 450px;
-    width: 760px;
+    height: 350px;
+    width: 660px;
     background-color: white;
-    border: 4px solid yellow;
+    
 }
 .event{
     margin:0 auto 20px;
@@ -57,18 +57,18 @@ p{
     width:1200px;
 }
 #fjoin, #fevent{
-    border: 4px solid rgb(255, 0, 106);
+    border: 104px solid rgb(255, 0, 106);
 }
 #cjoin, #cevent{
-    border: 4px solid black;
+    border: 104px solid black;
 }
 
 #bjoin, #bevent{
-    border: 4px solid gold;
+    border: 104px solid gold;
 }
 
 #pjoin, #pevent{
-    border: 4px solid gray;
+    border: 104px solid gray;
 }
 
 
