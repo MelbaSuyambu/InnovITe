@@ -27,8 +27,8 @@ main{
 }*/
 .join{
     margin: 10px auto 20px;
-    height: 350px;
-    width: 760px;
+    height: 200px;
+    width: 610px;
     background-color: white;
     justify-content: center;
     
@@ -40,8 +40,8 @@ main{
     background-color: white;
 }
 
-.abt{ height: 350px;
-    width: 760px;
+.abt{ height: 200px;
+    width: 610px;
 
 
 }
@@ -58,18 +58,18 @@ p{
     width:1200px;
 }
 #fjoin{
-    border: 104px solid rgb(255, 0, 106);
+    border: 4px solid rgb(255, 0, 106);
 }
 #cjoin{
-    border: 104px solid black;
+    border: 4px solid black;
 }
 
 #bjoin{
-    border: 104px solid gold;
+    border: 4px solid gold;
 }
 
 #pjoin{
-    border: 104px solid gray;
+    border: 4px solid gray;
 }
 #fevent{
     border: 4px solid rgb(255, 0, 106);
@@ -85,7 +85,6 @@ p{
 #pevent{
     border: 4px solid gray;
 }
-
 
 
 
