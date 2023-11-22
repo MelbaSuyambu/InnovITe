@@ -47,11 +47,13 @@ main{
     width: 560px;
 }
 p{
-    color: white;
+    color: black;
     font-weight: bolder;
     text-align: center;
     font-family: sans-serif;
     font-style: italic;
+    width:600px;
 }
+
 
 
