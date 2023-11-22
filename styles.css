@@ -17,18 +17,18 @@ main{
     width: 580px;
     background-image: url(innovite.png);
 }
-.club{
+/*.club{
     margin:0 auto 20px;
     height: 1000px;
     width: 580px;
     background-color: white;
-    padding-top: 10px;
-}
+}*/
 .join{
     margin: 10px auto 20px;
     height: 160px;
     width: 560px;
     background-color: white;
+    border: 4px solid yellow;
 }
 .event{
     margin:0 auto 20px;
@@ -39,6 +39,7 @@ main{
 
 .abt{ height: 160px;
     width: 560px;
+
 
 }
 .poster{
