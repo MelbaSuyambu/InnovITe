@@ -4,7 +4,7 @@ body{
 }
 main{
     margin:30px auto;
-    width:700px;
+    width:1200px;
     background-image: url(main.png);
     background-repeat: repeat-y;
     padding:20px 0 ;
@@ -12,9 +12,10 @@ main{
 
 }
 .innovite{
-    margin: auto ;
+    margin: 0 auto ;
+    background-position: center;
     height: 90px;
-    width: 660px;
+    width: 760px;
     background-image: url(innovite.png);
     background-repeat: no-repeat;
 }
@@ -26,26 +27,26 @@ main{
 }*/
 .join{
     margin: 10px auto 20px;
-    height: 350px;
-    width: 660px;
+    height: 450px;
+    width: 760px;
     background-color: white;
     border: 4px solid yellow;
 }
 .event{
     margin:0 auto 20px;
-    height: 890px;
-    width: 660px;
+    height: 990px;
+    width: 760px;
     background-color: white;
 }
 
-.abt{ height: 350px;
-    width: 660px;
+.abt{ height: 450px;
+    width: 760px;
 
 
 }
 .poster{
-    height: 890px;
-    width: 660px;
+    height: 990px;
+    width: 760px;
 }
 p{
     color: black;
@@ -53,7 +54,7 @@ p{
     text-align: center;
     font-family: sans-serif;
     font-style: italic;
-    width:700px;
+    width:1200px;
 }
 #fjoin, #fevent{
     border: 4px solid rgb(255, 0, 106);
